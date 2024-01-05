@@ -55,7 +55,7 @@ Now paste the following configuration into the "Template" code editor:
             "type": "postgres",
             "version": "latest",
             "billing": {
-              "deploymentPlan": "nf-compute-10",
+              "deploymentPlan": "nf-compute-20",
               "storageClass": "ssd",
               "storage": 4096,
               "replicas": 1
